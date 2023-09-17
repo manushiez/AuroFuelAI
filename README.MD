@@ -1,12 +1,12 @@
-<h1 align="center" >Machine Learning in Finding the best Algorithm for prediction of Fuel Efficiency in Automobile Industry</h1>
-<h3><samp><strong>Using the dataset, which contains information on the MPG, cylinders, displacement, horsepower, weight, acceleration, model year, location of manufacture, and name of the car, the proposed work entails the development and implementation of a machine learning model. Based on the research that has already been done in the field, these characteristics have been recognised as key markers of fuel efficiency. </strong></samp></h3>
-<br/>
+<h1 align="center" >Machine Learning in Finding the Best Algorithm for Prediction of Fuel Efficiency in Automobile Industry</h1>
+<h3><samp><strong>Using the dataset, which contains information on the MPG, cylinders, displacement, horsepower, weight, acceleration, model year, location of manufacture, and name of the car, the proposed work entails the development and implementation of a machine learning model. Based on the research that has already been done in the field, these characteristics have been recognized as key markers of fuel efficiency. </strong></samp></h3>
+< br/>
 <hr>
-<br/>
- <h1><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;Mrthodology</h1>
+< br/>
+ <h1><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;Methodology</h1>
 <h3 align="left">Importing</h3>
 <h4><samp><strong>Import necessary libraries for data analysis and machine learning.</strong></samp></h4>
-<br/>
+< br/>
 
 <h3 align="left">Data Loading</h3>
 <h4><samp><strong>Load relevant data for fuel efficiency prediction.</strong></samp></h4>
@@ -46,3 +46,5 @@
 
 <h3 align="left">Results</h3>
 <h4><samp><strong>Evaluate model performance and select the best-performing model for fuel efficiency prediction.</strong></samp></h4>
+
+<hr>
