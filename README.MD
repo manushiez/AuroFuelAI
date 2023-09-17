@@ -1,4 +1,4 @@
-<h1 align="center" >Machine Learning in Finding the Best Algorithm for Prediction of Fuel Efficiency in Automobile Industry</h1>
+<h1 align="center" img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="50px" >Machine Learning in Finding the Best Algorithm for Prediction of Fuel Efficiency in Automobile Industry</h1>
 <h3><samp><strong>Using the dataset, which contains information on the MPG, cylinders, displacement, horsepower, weight, acceleration, model year, location of manufacture, and name of the car, the proposed work entails the development and implementation of a machine learning model. Based on the research that has already been done in the field, these characteristics have been recognized as key markers of fuel efficiency. </strong></samp></h3>
 < br/>
 <hr>
